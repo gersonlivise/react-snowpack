@@ -1,4 +1,10 @@
-/* Add CSS styles here! */
-body {
-  font-family: sans-serif;
+.sec{
+  border: 1px solid #F4D03F;
+  padding: 0px 17px 17px 17px;
+  border-radius: 15px;
+  background: #DBBA35;
 }
+.art {
+  text-align:justify;
+  border: 1px solid #F4D03F;
+}	
